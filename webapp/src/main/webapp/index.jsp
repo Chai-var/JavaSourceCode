@@ -23,7 +23,7 @@
 
 <center>Java Web Application Project</center>
 <center>Deploy WebApplication with Jenkins Code Integration and AWS Code deploy</center>
-</p>
+<center> Project by Chaitra S</center>
 
 <hr>
 
